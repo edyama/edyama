@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am actually a IT student and I am improving my skills to aim better opportunities at the IT market.
+
 - 🌱 I’m currently learning Swift/iOS.
 - 👯 I’m looking to collaborate on Mobile Dev
 - ⚡ Fun facts: 
