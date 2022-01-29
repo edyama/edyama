@@ -5,10 +5,9 @@ I am actually a IT student and I am improving my skills to aim better opportunit
 - 🌱 I’m currently learning Swift/iOS.
 - 👯 I’m looking to collaborate on Mobile Dev
 - ⚡ Fun facts: 
-  - I am a Geologist
-  - Books
-  - Movies/series
-  - Calisthenics
+  - ⚒ I am a Geologist
+  - 📚 Books
+  - 🏋️‍♀️ Weight Training 
 
 <!--
 **edyama/edyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
