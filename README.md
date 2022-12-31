@@ -2,8 +2,8 @@
 
 I am actually a IT student and I am improving my skills to aim better opportunities at the IT market.
 
-- 🌱 I’m currently learning Swift/iOS.
-- 👯 I’m looking to collaborate on Mobile Dev
+- 🌱 I’m currently learning C# .NET and I have experience in Swift/iOS.
+- 👯 I’m looking to collaborate with Front end
 - ⚡ Fun facts: 
   - ⚒ I am a Geologist
   - 📚 Books
